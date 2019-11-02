@@ -1,16 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65df2d9e-13c1-4d59-bf5c-a6f171864a37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/BelongsToIntervalChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/BelongsToIntervalChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/DayInWordChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/DayInWordChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/DiscountCountChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/DiscountCountChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/DivisorChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/DivisorChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/MagnitudeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/MagnitudeChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/MaxMinAverageChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/MaxMinAverageChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/NumberCompareChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/NumberCompareChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/NumberInWordChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/NumberInWordChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/OddEvenChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/OddEvenChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/PassFailChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/PassFailChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/QuadraticEquationChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/QuadraticEquationChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/SquareAndCircleChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/SquareAndCircleChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_4/BinaryToDecimalChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_4/BinaryToDecimalChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_4/MinValueChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_4/MinValueChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_4/SortingChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_4/SortingChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/test/java/com/hillel/lecture_3/MagnitudeCompareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/test/java/com/hillel/lecture_3/MagnitudeCompareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/test/java/com/hillel/lecture_3/MaxMinAverageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/test/java/com/hillel/lecture_3/MaxMinAverageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/test/java/com/hillel/lecture_4/BinaryToDecimalTestTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/test/java/com/hillel/lecture_4/BinaryToDecimalTestTask.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/home-work-task" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/home-work-task" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/lecture4.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1SveJAyDf5nXvwgiX9yVZjGhSk2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65df2d9e-13c1-4d59-bf5c-a6f171864a37" name="Default Changelist" comment="" />
+      <created>1572448422140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572448422140</updated>
+    </task>
+    <task id="LOCAL-00001" summary="creation of Tamara Shylko branch">
+      <created>1572448588387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572448588387</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creation of Tamara Shylko branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="creation of Tamara Shylko branch" />
   </component>
 </project>

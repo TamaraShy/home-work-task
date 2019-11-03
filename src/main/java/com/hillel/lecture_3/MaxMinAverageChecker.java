@@ -12,10 +12,15 @@ public class MaxMinAverageChecker {
 
 //        TODO implements result
         int result = 0;
-
-        return result;
+        if (a>b && a>c){
+        return result = "Max number :" + a;
+        else  if (a<b && b>c) {
+            result = "Max number: " +b;
+            } else {
+            result = "Max number: " +c;
+            }
+        }
     }
-
     @Step
     public int getAverageNumber(int a, int b , int c) {
 

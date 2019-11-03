@@ -52,5 +52,4 @@ public class MaxMinAverageTest {
         assertEquals(maxMinAverageChecker.getAverageNumber(a, b, c), 0);
         assertEquals(maxMinAverageChecker.getMinNumber(a, b, c), 0);
     }
-
 }

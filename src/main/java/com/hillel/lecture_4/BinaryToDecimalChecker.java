@@ -12,7 +12,12 @@ public class BinaryToDecimalChecker {
 
 //        TODO implements result
         int result = 0;
-
+        int mult = 1;
+        for (int i = base2.length()-1; i >= 0; i--) {
+            if (chars[i]=='1') {
+                result += mult;
+            }
+            mult*=2;}
         return result;
     }
 
@@ -21,7 +26,13 @@ public class BinaryToDecimalChecker {
 
 //        TODO implements result
         int result = 0;
-
+        int mult = 1;
+        for (int i = base2.length()-1; i >= 0; i--) {
+            if (chars[i]=='1') {
+                result += mult;
+            }
+            mult*=2;
+        }
         return result;
     }
 }

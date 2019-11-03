@@ -18,7 +18,6 @@ public class MagnitudeCompareTest {
     public void positiveGreatestMagnitudeTest() {
         double a = 58.44;
         double b = 58.45;
-
         assertEquals(magnitudeChecker.getGreatestNumberByMagnitude(a, b), "The number 58.45 has the greatest magnitude!");
     }
 

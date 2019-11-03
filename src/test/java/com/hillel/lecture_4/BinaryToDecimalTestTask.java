@@ -24,5 +24,4 @@ public class BinaryToDecimalTestTask {
 
         assertEquals(binaryToDecimalChecker.fromBinaryToDecimal(1100001001), expectedResult) ;
     }
-
 }

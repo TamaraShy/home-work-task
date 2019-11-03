@@ -12,7 +12,7 @@ public class NumberCompareChecker {
 
 //        TODO implements result
         String result = "";
-
-        return result;
-    }
+        if (a>b){
+        return result = "The number" + a + "has the greatest value";
+    } else {return result = "The number" + b + "has the greatest value}
 }

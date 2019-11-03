@@ -12,7 +12,22 @@ public class SortingChecker {
 
 //        TODO implements result
         int[] result = new int[0];
-
+        for (int i = 0; i < array.length; i++) {
+            int min = array[i];
+            int min_i = i;
+            for (int j = i+1; j < arr.length; j++) {
+                if (array[j] < min) {
+                    min = arr[j];
+                    min_i = j;
+                }
+            }
+            if (i != min_i) {
+                int tmp = array[i];
+                arr[i] = array[min_i];
+                arr[min_i] = tmp;
+            }
+        }
+    }
         return result;
     }
 

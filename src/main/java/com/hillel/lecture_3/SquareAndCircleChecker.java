@@ -12,17 +12,7 @@ public class SquareAndCircleChecker {
 
 //        TODO implements result
         String result = "";
+        if (a=b && b=c);{
+        return = "Isosceles triangle!";
+    }else {return = "No isosceles triangle!"}
 
-        return result;
-    }
-
-    @Step
-    public String checkSquareInCircle(double circleArea, double squareArea) {
-
-//        TODO implements result
-        String result = "";
-
-        return result;
-    }
-
-}

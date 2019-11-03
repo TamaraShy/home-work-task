@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="65df2d9e-13c1-4d59-bf5c-a6f171864a37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/BelongsToIntervalChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/BelongsToIntervalChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/DayInWordChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/DayInWordChecker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/DiscountCountChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/DiscountCountChecker.java" afterDir="false" />

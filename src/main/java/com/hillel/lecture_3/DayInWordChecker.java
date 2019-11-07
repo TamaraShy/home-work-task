@@ -11,16 +11,15 @@ public class DayInWordChecker {
     public String getDayIfElse(int number) {
         //        TODO implements result
         String result = "";
-        int a = 5;
-        if (a=1);{
+        if(number==1){
             return result = "Monday";}
-        else if (a=2); {result = "Tuesday";}
-    else if {(a=3); {result = "Wednesday";}
-    else if (a=4); {result = "Thursday";}
-    else if (a=5);{result = "Friday";}
-    else if (a=6); {result = "Saturday";}
-    else if (a=7); {result = "Sunday";}
-    else {result = "Not a valid day";}
+        else if(number==2) {return result = "Tuesday";}
+    else if(number==3){return result = "Wednesday";}
+    else if(number==4){return result = "Thursday";}
+    else if(number==5){return result = "Friday";}
+    else if(number==6){return result = "Saturday";}
+    else if(number==7){return result = "Sunday";}
+    else {return result = "Not a valid day";}
     }
 
     @Step

@@ -12,7 +12,7 @@ public class OddEvenChecker {
 
 //        TODO implements result
         String result = "";
-        if(a%2 ==0)
+        if(number%2 ==0)
             return result = "Even Numper";
          else{
             return result = "Odd Number";

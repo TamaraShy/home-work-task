@@ -14,8 +14,10 @@ public class MagnitudeChecker {
         double maga = Math.abs(a);
         double magb = Math.abs(b);
         if (maga > magb) {
-            result = "The number " + a + " has the greatest magnitude!";
+            return result = "The number " + a + " has the greatest magnitude!";
         } else if (maga < magb) {
-            result = "The number " + b + " has the greatest magnitude!";
-        } else result = "The number " + a +" and " + b + " are equals by magnitude!";
+            return result = "The number " + b + " has the greatest magnitude!";
+        } else return result = "The number " + a + " and " + b + " are equals by magnitude!";
     }
+}
+

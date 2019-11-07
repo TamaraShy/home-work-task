@@ -12,7 +12,7 @@ public class ReverseStringChecker {
 
 //        TODO implements result
         String result = "";
-
+        string
         return result;
     }
 

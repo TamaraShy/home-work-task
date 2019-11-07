@@ -11,18 +11,17 @@ public class NumberInWordChecker {
     public String getNumberIfElse(int number) {
         //        TODO implements result
         String result = "";
-        int a = 5;
-        if (a=1);{
+        if (number==1){
         return result = "ONE";}
-        else if (a=2); {result = "TWO";}
-    else if {(a=3); {result = "THREE";}
-    else if (a=4); {result = "FOUR";}
-    else if (a=5);{result = "FIVE";}
-    else if (a=6); {result = "SIX";}
-    else if (a=7); {result = "SEVEN";}
-    else if (a=8); {result = "EIGHT"}
-    else if (a=9); {result = "NINE"}
-    else {result = "OTHER";}
+        else if (number==2) {return result = "TWO";}
+    else if (number == 3) {return result = "THREE";}
+    else if (number ==4) {return result = "FOUR";}
+    else if (number ==5) {return result = "FIVE";}
+    else if (number==6) {return result = "SIX";}
+    else if (number ==7) {return result = "SEVEN";}
+    else if (number ==8) {return result = "EIGHT";}
+    else if (number ==9 ) {return result = "NINE";}
+    else {return result = "OTHER";}
     }
 
     @Step

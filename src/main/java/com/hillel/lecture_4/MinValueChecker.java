@@ -12,10 +12,11 @@ public class MinValueChecker {
 
 //        TODO implements result
         int result = 0;
-        for (int i = 0; i < myArray.length; i++) {
-            min = Math.min(min, myArray[i]);
+        int ar_min = data [0];
+        for(int i = 0; i < data.length; i++) {
+            if(data[i] < ar_min)
+                ar_min = data[i];
         }
-        return result;
+        return ar_min;
+        }
     }
-
-}

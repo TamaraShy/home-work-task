@@ -12,10 +12,8 @@ public class PassFailChecker {
 
 //        TODO implements result
         String result = " ";
-        if (mark >=50)
+        if (number >=50)
         return result = "PASS";
-        else {
-            result="FAIL";
-        }
+        else { return result="FAIL";}
     }
 }

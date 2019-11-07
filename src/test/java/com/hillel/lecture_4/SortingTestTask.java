@@ -24,6 +24,6 @@ public class SortingTestTask {
         int[] data = { 234, 758, -35, 345, 24535, -46, 214, -13, 145 };
         int[] expectedResult = {24535, 758, 345, 234, 214, 145, -13, -35, -46};
 
-        assertEquals(sortingChecker.fromMaxToMin(data), expectedResult) ;
+        assertEquals(sortingChecker.fromMinToMax(data), expectedResult) ;
     }
 }

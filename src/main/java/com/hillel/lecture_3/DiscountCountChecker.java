@@ -12,8 +12,10 @@ public class DiscountCountChecker {
 
 //        TODO implements result
         double result = 0.0;
-        if(prise >=1000)
-            prise = prise*0,15;
-        return result = "Prise is "+ prise + "you have discount 15%";
-    }else result = "Prise is "+ prise
+        if (price >= 1000) {
+            return result;
+        } else {
+            return result;
+        }
+    }
 }

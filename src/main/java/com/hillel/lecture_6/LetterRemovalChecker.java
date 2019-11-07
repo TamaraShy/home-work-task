@@ -12,8 +12,8 @@ public class LetterRemovalChecker {
     public String removeLetter(String sentence, String letterFoRemove) {
 
 //        TODO implements result
-        String result = "";
-
-        return result;
+        String result = " ";
+        String LetterFoRemovenew = letterFoRemove.replaceAll("a", "");
+        return result = LetterFoRemovenew;
     }
 }

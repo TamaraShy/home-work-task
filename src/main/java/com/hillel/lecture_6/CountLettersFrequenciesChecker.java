@@ -13,7 +13,7 @@ public class CountLettersFrequenciesChecker {
 
 //        TODO implements result
         String result = "";
-
+        int counter =0;
         return result;
     }
 }

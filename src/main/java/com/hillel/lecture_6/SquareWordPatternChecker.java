@@ -8,7 +8,6 @@ import io.qameta.allure.Step;
 public class SquareWordPatternChecker {
 
     @Step
-
     public String applySquareWordPattern(String word) {
 
 //        TODO implements result
@@ -17,7 +16,7 @@ public class SquareWordPatternChecker {
 
         for (int i = 1; i < word.length(); i++) {
             words1 = words1.substring(1) + words1.substring(0, 1);
-            result = result + ", " + words1;
-        }
+            result = result + ", " + words1;}
+        return result;
     }
 }

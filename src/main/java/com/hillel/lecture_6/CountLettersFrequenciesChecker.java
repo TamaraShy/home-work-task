@@ -13,7 +13,12 @@ public class CountLettersFrequenciesChecker {
 
 //        TODO implements result
         String result = "";
-        int counter =0;
+        int count =0;
+        for(int i=0; i < text.length()-1; i++)
+        {    if(text.charAt(i) == letter)
+            count++;
+            {result = result + count;}
+        }
         return result;
     }
 }

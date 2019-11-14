@@ -13,7 +13,11 @@ public class UpperLowerCaseChecker {
 
 //        TODO implements result
         String result = "";
-        String upper = word.toUpperCase();
+        String word1;
+        for(int i =1; i< word.length();i++){
+            word1 = word.substring(i,i+1).toUpperCase();
+            {result = word1;}
+        }
         return result;}
 
 
@@ -22,9 +26,12 @@ public class UpperLowerCaseChecker {
 
 //        TODO implements result
         String result = "";
-        String lower = word.toLowerCase();
-        return result;
-    }
+        String word1;
+        for(int i =1; i< word.length();i++){
+            word1 = word.substring(i,i+1).toLowerCase();
+            {result = word1;}
+        }
+        return result;}
 
     @Step
     public String eachSentenceToUpperCase(String sentence) {

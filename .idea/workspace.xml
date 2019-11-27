@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="65df2d9e-13c1-4d59-bf5c-a6f171864a37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/BelongsToIntervalChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/BelongsToIntervalChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/DivisorChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/DivisorChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/MagnitudeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/MagnitudeChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/SquareAndCircleChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_3/SquareAndCircleChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_4/FibonacciNumbersChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/home-work-task/src/main/java/com/hillel/lecture_4/FibonacciNumbersChecker.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
